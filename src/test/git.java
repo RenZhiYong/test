@@ -6,6 +6,7 @@ public class git {
         System.out.println("git更新测试/第一次");
         System.out.println("老周行不行");
         System.out.println("老周不行了");
+        System.out.print("老李也亮了");;
 
     }
 }

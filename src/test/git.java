@@ -8,7 +8,11 @@ public class git {
         System.out.println("老周不行了");
         System.out.print("老李也亮了");;
         System.out.println("老李第二次上传使");
-        System.out.println("xxxxxxxxx");
 
+        System.out.println （“xxxxxxxxx” ）;  
+        System.out.println("ZZN2222");
+        System.out.println("ZZN");
+        System.out.println("老鸨第一次上传");
+        System.out.println("小宝哥第那次上传");
     }
 }

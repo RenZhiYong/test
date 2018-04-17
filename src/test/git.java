@@ -9,5 +9,7 @@ public class git {
         System.out.print("老李也亮了");;
         System.out.println("老李第二次上传使");
         System.out.println("ZZN2222");
+        System.out.println("ZZN");
+        System.out.println("老鸨第一次上传");
     }
 }
